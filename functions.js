@@ -1,5 +1,9 @@
-const changeEmailFromGmailToHicoders = () => {};
+const changeEmailFromGmailToHicoders = () => {
 
-const findSuperNumbers = () => {};
+};
+
+const findSuperNumbers = () => { };
+
+
 
 export { changeEmailFromGmailToHicoders, findSuperNumbers };
